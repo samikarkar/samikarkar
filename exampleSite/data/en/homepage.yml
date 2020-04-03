@@ -1,0 +1,52 @@
+---
+banner:
+  enable: true
+  bg_image: images/slider-bg.jpg
+  title: R&D Expertise <br/> in Acoustics & Vibrations
+  content: We love to model things, and we love innovating. We work closely with our
+    clients to deliver the best possible models to help them develop innovative concepts.
+  button:
+    enable: true
+    label: Discover Our Previous Projects
+    link: project
+about:
+  enable: true
+  title: About Us
+  description: After 10 years of working in universities, Sami Karkar decided to found
+    his own R&D agency. Working for both academic and industrial clients, his agency
+    now develops top-notch multi-physics models and simulations to help foster new
+    research ideas, boost new concept development, and speed-up innovation
+  content: Music acoustics, Nonlinear dynamical systems, Programable metamaterials,
+    Radio-frequency components, Earth atmosphere physics... It could sound like a
+    list of very disconnected subjects. Yet they're all fields where modelling is
+    an essential part of R&D. And those are fields we have explored, modelling subtle
+    and complex objects, connecting different physical phenmena.
+  image: images/wrapper-img.png
+portfolio:
+  enable: true
+  bg_image: images/featue-bg.jpg
+  title: WE BELIEVE IN MULTI-PHYSICS
+  content: |+
+    Our range of expertise covers Acoustics, Solid mechanics, Mechanical Meta-materials, Acoustic Meta-materials, Active control, Adaptive systems, Smart Materials and Systems, but also Fluid Mechanics, Atmospheric Physics, Radio-Frequency ElectroMagnetics.
+
+    We develop innovative coupled models, using different scales in space and time/frequency for each physics, when needed. We propose time-domain as well as frequency-domain analysis, modal analysis and stability studies.
+
+  button:
+    enable: true
+    label: View our model gallery
+    link: project
+funfacts:
+  enable: true
+  title: What we achieved
+  description: "'We deliver state-of-the-art modeling and simulation for complex innovating
+    technologies'"
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Cups Of Coffee
+    count: "999"
+  - icon: ion-ios-glasses-outline
+    name: Articles Co-authored
+    count: "20"
+  - icon: ion-ios-compose-outline
+    name: Projects Completed
+    count: "15"

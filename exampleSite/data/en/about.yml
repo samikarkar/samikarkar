@@ -1,0 +1,49 @@
+---
+about:
+  enable: true
+  image: images/company/about.jpg
+  title: We strive to deliver oustanding expertise and <br> unmatched performance.
+  content: Blah
+  funfacts:
+  - icon: ion-ios-flask-outline
+    name: Completed Projects
+    count: "349"
+  - icon: ion-ios-flame-outline
+    name: Lines Of Code
+    count: "35000"
+  - icon: ion-ios-pint-outline
+    name: Satisfied Customer
+    count: "70"
+  - icon: ion-ios-wineglass-outline
+    name: Awards Winner
+    count: "10"
+  - icon: ion-ios-chatboxes-outline
+    name: Satisfied Customer
+    count: "75"
+  - icon: ion-ios-body-outline
+    name: Awards Winner
+    count: "20"
+features:
+  enable: true
+  title: We are indepented Research & Development Agency
+  feature_item:
+  - icon: ion-ios-color-filter-outline
+    name: Acoustics and Vibrations Development
+    content: From shape optimization to actively controled surfaces for noise and
+      vibration mitigation
+  - icon: ion-ios-unlocked-outline
+    name: State-of-the-art modelling
+    content: Using the latest technology, we build multi-physics finite element models
+      tailored to your problem
+  - icon: ion-ios-game-controller-b-outline
+    name: Steering Innovation
+    content: We also propose simplified modelling allowing for parametric studies,
+      in order to speed up development of innovative solutions
+  - icon: ion-ios-mic-outline
+    name: Training
+    content: We propose to train your R&D staff to the state-of-the-art modelling
+      and simulation tools
+  - icon: ion-ios-lightbulb-outline
+    name: Innovative Design
+    content: Our solutions provide fast track from innovative concept to product design
+draft: true
