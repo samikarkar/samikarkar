@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samikarkar.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/gallery/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/gallery/projet_exemple_fr/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
