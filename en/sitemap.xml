@@ -3,90 +3,90 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/about/</loc>
+    <loc>https://samikarkar.github.io/en/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/about/"
+                href="https://samikarkar.github.io/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/about/"
+                href="https://samikarkar.github.io/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/categories/</loc>
+    <loc>https://samikarkar.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/categories/"
+                href="https://samikarkar.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/categories/"
+                href="https://samikarkar.github.io/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/contact/</loc>
+    <loc>https://samikarkar.github.io/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/contact/"
+                href="https://samikarkar.github.io/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/contact/"
+                href="https://samikarkar.github.io/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/gallery/</loc>
+    <loc>https://samikarkar.github.io/en/gallery/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/gallery/"
+                href="https://samikarkar.github.io/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/gallery/"
+                href="https://samikarkar.github.io/en/gallery/"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/gallery/project_example_en/</loc>
+    <loc>https://samikarkar.github.io/en/gallery/project_example_en/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/</loc>
+    <loc>https://samikarkar.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/"
+                href="https://samikarkar.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/"
+                href="https://samikarkar.github.io/en/"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.com/en/tags/</loc>
+    <loc>https://samikarkar.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.com/tags/"
+                href="https://samikarkar.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.com/en/tags/"
+                href="https://samikarkar.github.io/en/tags/"
                 />
   </url>
   
