@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/circulateur_acoustique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/diode-acoustique/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/gallery/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/gallery/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/maillage-adapte-pour-pieces-3d-complexe/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/mecanique-du-contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/recuperateur-d-energie-vibratoire/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/gallery/resonateur-a-trous/</loc>
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://samikarkar.netlify.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://samikarkar.netlify.app/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://samikarkar.netlify.app/tags/"
+                />
+  </url>
+  
+</urlset>
