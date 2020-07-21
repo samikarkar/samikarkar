@@ -3,122 +3,118 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/about/</loc>
-  </url>
-  
-  <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/categories/</loc>
+    <loc>https://samikarkar.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</loc>
+    <loc>https://samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</loc>
+    <loc>https://samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/circulateur_acoustique/</loc>
+    <loc>https://samikarkar.github.io/gallery/circulateur_acoustique/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/diode-acoustique/</loc>
+    <loc>https://samikarkar.github.io/gallery/diode-acoustique/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/</loc>
+    <loc>https://samikarkar.github.io/gallery/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/gallery/"
                 />
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</loc>
+    <loc>https://samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/mecanique-du-contact/</loc>
+    <loc>https://samikarkar.github.io/gallery/mecanique-du-contact/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/contact/</loc>
+    <loc>https://samikarkar.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/contact/"
                 />
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/about/</loc>
+    <loc>https://samikarkar.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/about/"
                 />
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</loc>
+    <loc>https://samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/gallery/resonateur-a-trous/</loc>
+    <loc>https://samikarkar.github.io/gallery/resonateur-a-trous/</loc>
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/</loc>
+    <loc>https://samikarkar.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/"
                 />
   </url>
   
   <url>
-    <loc>file:///home/skarkar/samikarkar.github.io/tags/</loc>
+    <loc>https://samikarkar.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="#ZgotmplZ"
+                href="https://samikarkar.github.io/tags/"
                 />
   </url>
   

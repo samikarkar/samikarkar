@@ -2,94 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sami Karkar | R&amp;D Expertise in Acoustics &amp; Vibrations</title>
-    <link>file:///home/skarkar/samikarkar.github.io/</link>
+    <link>https://samikarkar.github.io/</link>
     <description>Recent content on Sami Karkar | R&amp;D Expertise in Acoustics &amp; Vibrations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language>
     <copyright>Copyright &amp;copy; 2020 Sami Karkar basé sur [Themefisher]</copyright>
     
-	<atom:link href="file:///home/skarkar/samikarkar.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://samikarkar.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>file:///home/skarkar/samikarkar.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>file:///home/skarkar/samikarkar.github.io/about/</guid>
-      <description>title: Biographie de Sami Karkar button: true URL: https://scholar.google.fr/citations?user=pGJc4CQAAAAJ</description>
-    </item>
     
     <item>
       <title>Champ E-M entre deux plan rugueux en mouvement</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</link>
+      <link>https://samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</guid>
+      <guid>https://samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</guid>
       <description>Champ E-M entre deux plans rugueux Effet capacitif induit par la perte de contact entre deux plans rugueux (entre deux cylindres concentriques, par symétrie de révolution : voir le modèle complet 3D)</description>
     </item>
     
     <item>
       <title>Champ E-M statique dans un contact sphère-plan</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</link>
+      <link>https://samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</guid>
+      <guid>https://samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</guid>
       <description>Contact sphère-plan : champ électrique statique et densité de courant On explore un contact électrique sphère-plan avec une rugosité simulée (contact imparfait).</description>
     </item>
     
     <item>
       <title>Circulateur acoustique</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/circulateur_acoustique/</link>
+      <link>https://samikarkar.github.io/gallery/circulateur_acoustique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/circulateur_acoustique/</guid>
+      <guid>https://samikarkar.github.io/gallery/circulateur_acoustique/</guid>
       <description>Circulateur pour guides d&amp;rsquo;ondes acoustiques Basé sur le contrôle des ondes par les frontières, ce circulateur brise la symétrie de propagation des ondes acoustiques et guide les ondes d&amp;rsquo;un port au suivant dans un sens donné.</description>
     </item>
     
     <item>
       <title>Diode acoustique</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/diode-acoustique/</link>
+      <link>https://samikarkar.github.io/gallery/diode-acoustique/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/diode-acoustique/</guid>
+      <guid>https://samikarkar.github.io/gallery/diode-acoustique/</guid>
       <description>Diode acoustique Modélisation 3D acoustique et vibro-acoustique d&amp;rsquo;un guide d&amp;rsquo;onde équipée d&amp;rsquo;une paroi intelligente, permettant d&amp;rsquo;absorber les ondes acoustiques qui arrivent dans un sens, tout en les laissant passer dans l&amp;rsquo;autre sens.</description>
     </item>
     
     <item>
       <title>Maillage adapté pour pièces 3D complexe</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</link>
+      <link>https://samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</guid>
+      <guid>https://samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</guid>
       <description>Maillage adapté pour pièces 3 complexes Le maillage (à la fois des pièces, mais aussi du milieu ambiant entre elles) est multi-échelle : on cherche une résolution moyenne loin des contacts, et une résolution très fines dans les zones de contact sphère-plan qui sont très petites.</description>
     </item>
     
     <item>
       <title>Mécanique du contact</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/mecanique-du-contact/</link>
+      <link>https://samikarkar.github.io/gallery/mecanique-du-contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/mecanique-du-contact/</guid>
+      <guid>https://samikarkar.github.io/gallery/mecanique-du-contact/</guid>
       <description>Contact sphère creuse - plaque mince Calcul en 2D-axisymétrique d&amp;rsquo;une mise en contact quasi-statique (type essai d&amp;rsquo;identation) : le déplacement apparaît en couleurs, alors que les forces de réaction apparaissent sous forme de flèches rouges.</description>
     </item>
     
     <item>
       <title>Récupérateur d&#39;énergie vibratoire</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</link>
+      <link>https://samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</guid>
+      <guid>https://samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</guid>
       <description>Récupérateur d&#39;énergie vibratoire Couplage électro-mécanique dans un &amp;ldquo;trou noir aoustique&amp;rdquo; qui concentre l&#39;énergie des ondes de flexions dans une poutre.
 [Travail réalisé dans le cadre de l&amp;rsquo;ANR ETNAA (Etude de Trous Noirs Acoustiques Augmentés)]</description>
     </item>
     
     <item>
       <title>Résonateur à trous</title>
-      <link>file:///home/skarkar/samikarkar.github.io/gallery/resonateur-a-trous/</link>
+      <link>https://samikarkar.github.io/gallery/resonateur-a-trous/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>file:///home/skarkar/samikarkar.github.io/gallery/resonateur-a-trous/</guid>
+      <guid>https://samikarkar.github.io/gallery/resonateur-a-trous/</guid>
       <description>Table d&amp;rsquo;harmonie à trous Mode propre d&amp;rsquo;une cavité acoustique fermée par une plaque mince vibrante trouée. Le placement des trous permet de diriger le rayonnement, leur nombre et taille permet de modifier facilement les premières fréquences propres du résonateur, et ainsi d&amp;rsquo;augmebnter l&amp;rsquo;efficacité du rayonnement.</description>
     </item>
     
