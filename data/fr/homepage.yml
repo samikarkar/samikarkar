@@ -1,0 +1,57 @@
+---
+banner:
+  enable: true
+  bg_image: uploads/Film_12_cells_demi_rho_c_temporel_Lp-short.gif
+  title: Expertise R&D <br/> en Acoustique & Vibrations
+  content: 'Modéliser, simuler, innover : nous travaillons au plus près de vos besoins
+    pour produire des modèles et des simulations qui vous permettent de développer
+    des solutions et concepts innovants.'
+  button:
+    enable: true
+    label: Un aperçu de nos projets précédents
+    link: gallery
+about:
+  enable: true
+  title: A propos de nous
+  description: 'Notre crédo : modéliser, simuler, innover!'
+  content: Docteur en Acoustique de l'Université d'Aix-Marseille, Sami Karkar a travaillé
+    au CNRS à Marseille, au CEA à Saclay, à l'École polytechnique fédérale de Lausanne
+    en Suisse, et à l'École Centrale de Lyon. Il a également collaboré avec de nombreuses
+    équipes, en France comme à l'international.
+  image: uploads/profile_image-smaller.jpg
+portfolio:
+  enable: true
+  bg_image: uploads/coupled_mode_shape-model4ter_PVDF_52um-Rs1_Rcm1G_Cnegm0p9995.png
+  title: Faire fi des barrières entre disciplines!
+  content: |-
+    Alors que la plupart des scientifiques se spécialisent dans un domaine précis, nous croyons en la transversalité, au pluridisciplinaire, et à la complémentarité entre les compétences des uns et des autres. Alors que les disciplines se cloisonnent et que les spécialistes parlent chacun leur langue, sans toujours se comprendre, nous avons appris à comprendre ces différentes langues. Grâce à notre expérience au sein de communautés variées (mécaniciens, physiciens, électriciens et électroniciens), nous sommes en mesure de discuter avec tou⋅te⋅s  et de faire le lien entre les spécialités.
+
+    Cela nous permet d'assembler des points de vue qui se complètent, et d'offrir une approche unifiée, qui parle au spécialiste autant qu'au généraliste, à l'ingénieur autant qu'au mathématicien et au physicien.
+  button:
+    enable: false
+    label: A quoi ça ressemble ?
+    link: gallery
+cta:
+  enable: false
+  bg_image: images/call-to-action-bg.jpg
+  title: Nous vous aidons à modéliser pour mieux concevoir
+  content: ''
+  button:
+    enable: true
+    label: Dites nous ce que vous souhaitez développer
+    link: contact
+funfacts:
+  enable: false
+  title: Achievements
+  description: "'We deliver state-of-the-art modeling and simulation for complex innovating
+    technologies'"
+  funfact_item:
+  - icon: ion-ios-chatboxes-outline
+    name: Cups Of Coffee
+    count: "999"
+  - icon: ion-ios-glasses-outline
+    name: Article Written
+    count: "20"
+  - icon: ion-ios-compose-outline
+    name: Projects Completed
+    count: "15"
