@@ -1,9 +1,9 @@
 # theme.toml for the Airspace Hugo theme
 
-name = "Airspace Hugo"
+name = "Airspace Hugo - Sami"
 license = "CC BY 3.0"
 licenselink = "https://creativecommons.org/licenses/by/3.0/"
-description = "Hugo port of the Themefisher’s Airspace theme"
+description = "Sami's version of Hugo port of the Themefisher’s Airspace theme"
 homepage = "https://gethugothemes.com/products/airspace-hugo-theme/"
 tags = ["blog",'google-analytics', 'fast', 'modern', 'minimal', 'minimalistic', 'business', 'agency-template', 'white', 'light', 'multilingual', "bootstrap", "company", "portfolio", "projects", "responsive", "themefisher"]
 features = ["blog", "company", "responsive", "seo-friendly"]

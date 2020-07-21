@@ -21,20 +21,21 @@ about:
     list of very disconnected subjects. Yet they're all fields where modelling is
     an essential part of R&D. And those are fields we have explored, modelling subtle
     and complex objects, connecting different physical phenmena.
-  image: "/uploads/profile_image.jpg"
+  image: uploads/profile_image.jpg
 portfolio:
   enable: true
-  bg_image: "/uploads/coupled_mode_shape-model4ter_PVDF_52um-Rs1_Rcm1G_Cnegm0p9995.png"
+  bg_image: uploads/coupled_mode_shape-model4ter_PVDF_52um-Rs1_Rcm1G_Cnegm0p9995.png
   title: WE BELIEVE IN MULTI-PHYSICS
   content: |+
     Our range of expertise covers Acoustics, Solid mechanics, Mechanical Meta-materials, Acoustic Meta-materials, Active control, Adaptive systems, Smart Materials and Systems, but also Fluid Mechanics, Atmospheric Physics, Radio-Frequency ElectroMagnetics.
 
     We develop innovative coupled models, using different scales in space and time/frequency for each physics, when needed. We propose time-domain as well as frequency-domain analysis, modal analysis and stability studies.
-
   button:
     enable: true
     label: View our model gallery
     link: gallery
+
+
 funfacts:
   enable: true
   title: What we achieved

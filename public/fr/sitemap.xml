@@ -3,122 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://samikarkar.netlify.app/about/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/about/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/categories/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/categories/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/categories/"
+                href="#ZgotmplZ"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-entre-deux-plan-rugueux-en-mouvement/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/champ-e-m-statique-dans-un-contact-sphere-plan/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/circulateur_acoustique/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/circulateur_acoustique/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/diode-acoustique/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/diode-acoustique/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/gallery/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/gallery/"
+                href="#ZgotmplZ"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/maillage-adapte-pour-pieces-3d-complexe/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/maillage-adapte-pour-pieces-3d-complexe/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/mecanique-du-contact/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/mecanique-du-contact/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/contact/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/contact/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/contact/"
+                href="#ZgotmplZ"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/about/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/about/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/about/"
+                href="#ZgotmplZ"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/recuperateur-d-energie-vibratoire/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/recuperateur-d-energie-vibratoire/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/gallery/resonateur-a-trous/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/gallery/resonateur-a-trous/</loc>
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/"
+                href="#ZgotmplZ"
                 />
   </url>
   
   <url>
-    <loc>https://samikarkar.netlify.app/tags/</loc>
+    <loc>file:///home/skarkar/samikarkar.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://samikarkar.netlify.app/en/tags/"
+                href="#ZgotmplZ"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://samikarkar.netlify.app/tags/"
+                href="#ZgotmplZ"
                 />
   </url>
   
